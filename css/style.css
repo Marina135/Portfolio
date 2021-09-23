@@ -17,7 +17,7 @@
     background-color: #2A2B2A;
     position: sticky;
     top: 0;
-    width: 1450px;
+    width: 1430px;
 }
 
 .navbar ul {
@@ -54,6 +54,7 @@
     padding-left: 35px;
     padding-top: 20px;
     padding-bottom: 20px;
+    width: 1430px;
 }
 
 .pathtext {
@@ -68,7 +69,7 @@
     background-color: #856528;
     position: static;
     top: 0;
-    width: 1450px;
+    width: 1430px;
 }
 
 .logo {
@@ -95,7 +96,7 @@
     border: black solid 2px;
     height: 98px;
     left: 0;
-    width: 1450px;
+    width: 1420px;
 }
 
 .heading2 {
@@ -114,12 +115,12 @@
     display: flex;
     flex-direction: row;
     top: 0;
-    width: 1500px;
+    width: 1430px;
 }
 
 .decor {
     left: fixed;
-    width: 1450px;
+    width: 1430px;
     background-color: #F2D398;
     display: flex;
     flex-direction: row;
@@ -233,7 +234,7 @@
 .footer {
     background-color: #2A2B2A;
     top: 0;
-    width: 1450px;
+    width: 1430px;
 }
 
 .Contactinfo {
