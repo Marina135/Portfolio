@@ -17,7 +17,6 @@
     background-color: #2A2B2A;
     position: sticky;
     top: 0;
-    width: 1430px;
 }
 
 .navbar ul {
@@ -68,7 +67,6 @@
     background-color: #856528;
     position: static;
     top: 0;
-    width: 1430px;
 }
 
 .logo {
@@ -95,7 +93,6 @@
     border: black solid 2px;
     height: 98px;
     left: 0;
-    width: 1420px;
 }
 
 .heading2 {
@@ -114,7 +111,6 @@
     display: flex;
     flex-direction: row;
     top: 0;
-    width: 1430px;
 }
 
 .decor {
@@ -233,7 +229,6 @@
 .footer {
     background-color: #2A2B2A;
     top: 0;
-    width: 1430px;
 }
 
 .Contactinfo {
