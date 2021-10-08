@@ -424,3 +424,13 @@
       transform: rotate(720deg);
     }
 }
+
+.prototypelink {
+    margin: 15px; 
+    margin-bottom: 45px; 
+    color: black !important; 
+    font-size: 35px; 
+    font-family: Helvetica Neue; 
+    font-weight: bold;
+    text-decoration: none !important;
+}
